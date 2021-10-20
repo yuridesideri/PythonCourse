@@ -1,0 +1,12 @@
+val = int(input('Escolha uma valor para acessar sua tabuada: '))
+print(val * 0)
+print(val * 1)
+print(val * 2)
+print(val * 3)
+print(val * 4)
+print(val * 5)
+print(val * 6)
+print(val * 7)
+print(val * 8)
+print(val * 9)
+
